@@ -40,7 +40,7 @@ I believe in creating designs that are:
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [GPS Apps](link) | Complete UI/UX redesign for fashion app | <img src="https://img.shields.io/badge/-Figma-orange"> <img src="https://img.shields.io/badge/-After%20Effects-blue"> |
+| [GPS Apps](link) | Complete UI/UX redesign for GPS APPS| <img src="https://img.shields.io/badge/-Figma-orange"> <img src="https://img.shields.io/badge/-After%20Effects-blue"> |
 | [AI Photo Editor](link) | Photo Editor APP | <img src="https://img.shields.io/badge/-XD-purple"> <img src="https://img.shields.io/badge/-Illustrator-yellow"> |
 | [Brand Identity](link) | Logo + complete branding package | <img src="https://img.shields.io/badge/-Illustrator-yellow"> <img src="https://img.shields.io/badge/-Photoshop-blue"> |
 
