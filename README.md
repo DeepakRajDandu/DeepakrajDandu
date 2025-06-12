@@ -48,10 +48,9 @@ I believe in creating designs that are:
 Let's create something amazing together!
 
 📧 **Email**: your.email@example.com  
-🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  
-💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com)  
-🐦 **Twitter**: [@yourhandle](https://twitter.com)  
-📷 **Dribbble**: [dribbble.com/yourprofile](https://dribbble.com)  
+🌐 **Portfolio**: [yourportfolio.com](https://www.deepakrajdandu.in)  
+💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/deepak-raj-dandu)   
+📷 **Dribbble**: [dribbble.com/yourprofile](https://www.dribbble.com/DeepakrajDandu)  
 
 ---
 
