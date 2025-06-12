@@ -50,7 +50,7 @@ I believe in creating designs that are:
 
 Let's create something amazing together!
 
-📧 **Email**: your.email@example.com  
+📧 **Email**: deepakraj.dandu@gmail.com  
 🌐 **Portfolio**: [deepakrajdandu.in](https://www.deepakrajdandu.in)  
 💼 **LinkedIn**: [linkedin.com/in/deepakrajdandu](https://www.linkedin.com/deepak-raj-dandu)   
 📷 **Dribbble**: [dribbble.com/DeepakrajDandu](https://www.dribbble.com/DeepakrajDandu)  
