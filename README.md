@@ -15,7 +15,7 @@ I craft **intuitive digital experiences** that users ♥️. From pixels to perf
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,pr)](https://skillicons.dev)
 
 ### Web 𝗗𝗲𝘀𝗶𝗴𝗻 & Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,wordpress,webflow, react, js, bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,wordpress,webflow,react,js,bootstrap)](https://skillicons.dev)
 
 ### 𝗣𝗿𝗼𝘁𝗼𝘁𝘆𝗽𝗶𝗻𝗴 & 𝗪𝗶𝗿𝗲𝗳𝗿𝗮𝗺𝗶𝗻𝗴
 <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white"> <img src="https://img.shields.io/badge/Balsamiq-00A4FF?style=for-the-badge&logo=Balsamiq&logoColor=white">
