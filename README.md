@@ -37,8 +37,8 @@ I believe in creating designs that are:
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [E-Commerce App](link) | Complete UI/UX redesign for fashion app | <img src="https://img.shields.io/badge/-Figma-orange"> <img src="https://img.shields.io/badge/-After%20Effects-blue"> |
-| [Fintech Dashboard](link) | Data visualization dashboard for banking | <img src="https://img.shields.io/badge/-XD-purple"> <img src="https://img.shields.io/badge/-Illustrator-yellow"> |
+| [GPS Apps](link) | Complete UI/UX redesign for fashion app | <img src="https://img.shields.io/badge/-Figma-orange"> <img src="https://img.shields.io/badge/-After%20Effects-blue"> |
+| [AI Photo Editor](link) | Photo Editor APP | <img src="https://img.shields.io/badge/-XD-purple"> <img src="https://img.shields.io/badge/-Illustrator-yellow"> |
 | [Brand Identity](link) | Logo + complete branding package | <img src="https://img.shields.io/badge/-Illustrator-yellow"> <img src="https://img.shields.io/badge/-Photoshop-blue"> |
 
 ---
@@ -48,9 +48,10 @@ I believe in creating designs that are:
 Let's create something amazing together!
 
 📧 **Email**: your.email@example.com  
-🌐 **Portfolio**: [yourportfolio.com](https://www.deepakrajdandu.in)  
-💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/deepak-raj-dandu)   
-📷 **Dribbble**: [dribbble.com/yourprofile](https://www.dribbble.com/DeepakrajDandu)  
+🌐 **Portfolio**: [deepakrajdandu.in](https://www.deepakrajdandu.in)  
+💼 **LinkedIn**: [linkedin.com/in/deepakrajdandu](https://www.linkedin.com/deepak-raj-dandu)   
+📷 **Dribbble**: [dribbble.com/DeepakrajDandu](https://www.dribbble.com/DeepakrajDandu)  
+📷 **Behance**: [behance.com/DeepakrajDandu](https://www.behance.com/DeepakrajDandu)  
 
 ---
 
