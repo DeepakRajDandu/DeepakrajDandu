@@ -9,7 +9,7 @@ I craft **intuitive digital experiences** that users ♥️. From pixels to perf
 ## 🛠️ 𝗠𝘆 𝗗𝗲𝘀𝗶𝗴𝗻 𝗧𝗼𝗼𝗹𝗸𝗶𝘁
 
 ### 𝗨𝗜/𝗨𝗫 𝗗𝗲𝘀𝗶𝗴𝗻
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"> <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black">
+[![My Skills](https://skillicons.dev/icons?i=js,figma)](https://skillicons.dev)
 
 ### 𝗚𝗿𝗮𝗮𝗽𝗵𝗶𝗰 𝗗𝗲𝘀𝗶𝗴𝗻
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
